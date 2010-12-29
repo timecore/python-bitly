@@ -14,9 +14,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-VERSION = '0.3-CORE'
-__version__ = VERSION
-
 import simplejson
 import urllib
 import httplib2
