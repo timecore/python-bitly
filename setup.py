@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 
 import os
-from bitly import VERSION
 from setuptools import setup
+
+VERSION = '0.3-CORE'
 
 setup(
     name='python-bitly',
